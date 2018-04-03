@@ -1,10 +1,10 @@
 NUGET
   remote: https://www.nuget.org/api/v2
     OpenTK (2.0)
-    QuickFont.Desktop (4.4.6159.26433) - framework: >= net45
+    QuickFont.Desktop (4.4.6159.26433) - restriction: >= net45
       OpenTK (>= 2.0)
       SharpFont (>= 4.0)
       SharpFont.Dependencies (>= 2.6)
-    SharpFont (4.0.1) - framework: >= net45
+    SharpFont (4.0.1) - restriction: >= net45
       SharpFont.Dependencies
-    SharpFont.Dependencies (2.6) - framework: >= net45
+    SharpFont.Dependencies (2.6) - restriction: >= net45

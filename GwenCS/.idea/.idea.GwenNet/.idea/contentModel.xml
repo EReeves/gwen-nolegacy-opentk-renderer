@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\libopenal.1.dylib" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\libSDL2-2.0.0.dylib" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x64\libopenal.so.1" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x64\libSDL2-2.0.so.0" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x64\SDL2.dll" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x64\soft_oal.dll" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x86\libopenal.so.1" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x86\libSDL2-2.0.so.0" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x86\SDL2.dll" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x86\soft_oal.dll" t="Include" />
+    <e p="C:\Users\evanr\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_GwenNet.-789835401.00" t="ExcludeRecursive" />
+    <e p="C:\Users\evanr\Documents\dev\Game.Droid\gwen-nolegacy-opentk-renderer\GwenCS" t="IncludeFlat">
+      <e p=".paket" t="Include" />
+      <e p="Gwen" t="IncludeRecursive">
+        <e p="Align.cs" t="Include" />
+        <e p="Anim" t="Include">
+          <e p="Animation.cs" t="Include" />
+          <e p="Size" t="Include">
+            <e p="Height.cs" t="Include" />
+            <e p="Width.cs" t="Include" />
+          </e>
+          <e p="TimedAnimation.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Control" t="Include">
+          <e p="Base.cs" t="Include" />
+          <e p="Button.cs" t="Include" />
+          <e p="Canvas.cs" t="Include" />
+          <e p="CheckBox.cs" t="Include" />
+          <e p="CollapsibleCategory.cs" t="Include" />
+          <e p="CollapsibleList.cs" t="Include" />
+          <e p="ColorLerpBox.cs" t="Include" />
+          <e p="ColorPicker.cs" t="Include" />
+          <e p="ColorSlider.cs" t="Include" />
+          <e p="ComboBox.cs" t="Include" />
+          <e p="CrossSplitter.cs" t="Include" />
+          <e p="DockBase.cs" t="Include" />
+          <e p="DockedTabControl.cs" t="Include" />
+          <e p="EnumRadioButtonGroup.cs" t="Include" />
+          <e p="EventArguments" t="Include">
+            <e p="ClickedEventArgs.cs" t="Include" />
+            <e p="ItemSelectedEventArgs.cs" t="Include" />
+          </e>
+          <e p="GroupBox.cs" t="Include" />
+          <e p="HorizontalScrollBar.cs" t="Include" />
+          <e p="HorizontalSlider.cs" t="Include" />
+          <e p="HorizontalSplitter.cs" t="Include" />
+          <e p="HSVColorPicker.cs" t="Include" />
+          <e p="IColorPicker.cs" t="Include" />
+          <e p="ImagePanel.cs" t="Include" />
+          <e p="Label.cs" t="Include" />
+          <e p="LabeledCheckBox.cs" t="Include" />
+          <e p="LabeledRadioButton.cs" t="Include" />
+          <e p="Layout" t="Include">
+            <e p="Positioner.cs" t="Include" />
+            <e p="Splitter.cs" t="Include" />
+            <e p="Table.cs" t="Include" />
+            <e p="TableRow.cs" t="Include" />
+          </e>
+          <e p="ListBox.cs" t="Include" />
+          <e p="ListBoxRow.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="MenuItem.cs" t="Include" />
+          <e p="MenuStrip.cs" t="Include" />
+          <e p="MessageBox.cs" t="Include" />
+          <e p="MultilineTextBox.cs" t="Include" />
+          <e p="NumericUpDown.cs" t="Include" />
+          <e p="ProgressBar.cs" t="Include" />
+          <e p="Properties.cs" t="Include" />
+          <e p="Property" t="Include">
+            <e p="Base.cs" t="Include" />
+            <e p="Check.cs" t="Include" />
+            <e p="Color.cs" t="Include" />
+            <e p="Text.cs" t="Include" />
+          </e>
+          <e p="PropertyRow.cs" t="Include" />
+          <e p="PropertyTree.cs" t="Include" />
+          <e p="RadioButton.cs" t="Include" />
+          <e p="RadioButtonGroup.cs" t="Include" />
+          <e p="ResizableControl.cs" t="Include" />
+          <e p="RichLabel.cs" t="Include" />
+          <e p="ScrollBar.cs" t="Include" />
+          <e p="ScrollControl.cs" t="Include" />
+          <e p="Slider.cs" t="Include" />
+          <e p="StatusBar.cs" t="Include" />
+          <e p="TabButton.cs" t="Include" />
+          <e p="TabControl.cs" t="Include" />
+          <e p="TabStrip.cs" t="Include" />
+          <e p="TabTitleBar.cs" t="Include" />
+          <e p="TextBox.cs" t="Include" />
+          <e p="TextBoxNumeric.cs" t="Include" />
+          <e p="TextBoxPassword.cs" t="Include" />
+          <e p="TreeControl.cs" t="Include" />
+          <e p="TreeNode.cs" t="Include" />
+          <e p="VerticalScrollBar.cs" t="Include" />
+          <e p="VerticalSlider.cs" t="Include" />
+          <e p="VerticalSplitter.cs" t="Include" />
+          <e p="WindowControl.cs" t="Include" />
+        </e>
+        <e p="ControlInternal" t="Include">
+          <e p="CategoryButton.cs" t="Include" />
+          <e p="CategoryHeaderButton.cs" t="Include" />
+          <e p="CloseButton.cs" t="Include" />
+          <e p="ColorButton.cs" t="Include" />
+          <e p="ColorDisplay.cs" t="Include" />
+          <e p="DownArrow.cs" t="Include" />
+          <e p="Dragger.cs" t="Include" />
+          <e p="Highlight.cs" t="Include" />
+          <e p="MenuDivider.cs" t="Include" />
+          <e p="Modal.cs" t="Include" />
+          <e p="PropertyRowLabel.cs" t="Include" />
+          <e p="PropertyTreeNode.cs" t="Include" />
+          <e p="Resizer.cs" t="Include" />
+          <e p="RightArrow.cs" t="Include" />
+          <e p="ScrollBarBar.cs" t="Include" />
+          <e p="ScrollBarButton.cs" t="Include" />
+          <e p="SliderBar.cs" t="Include" />
+          <e p="SplitterBar.cs" t="Include" />
+          <e p="TabControlInner.cs" t="Include" />
+          <e p="Text.cs" t="Include" />
+          <e p="TreeNodeLabel.cs" t="Include" />
+          <e p="TreeToggleButton.cs" t="Include" />
+          <e p="UpDownButton_Down.cs" t="Include" />
+          <e p="UpDownButton_Up.cs" t="Include" />
+        </e>
+        <e p="DragDrop" t="Include">
+          <e p="DragAndDrop.cs" t="Include" />
+          <e p="Package.cs" t="Include" />
+        </e>
+        <e p="Font.cs" t="Include" />
+        <e p="Gwen.csproj" t="IncludeRecursive" />
+        <e p="HSV.cs" t="Include" />
+        <e p="Input" t="Include">
+          <e p="InputHandler.cs" t="Include" />
+          <e p="KeyData.cs" t="Include" />
+        </e>
+        <e p="Key.cs" t="Include" />
+        <e p="Margin.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Padding.cs" t="Include" />
+        <e p="paket.references" t="Include" />
+        <e p="Platform" t="Include">
+          <e p="Neutral.cs" t="Include" />
+          <e p="Windows.cs" t="Include" />
+        </e>
+        <e p="Pos.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Renderer" t="Include">
+          <e p="Base.cs" t="Include" />
+          <e p="ICacheToTexture.cs" t="Include" />
+        </e>
+        <e p="Skin" t="Include">
+          <e p="Base.cs" t="Include" />
+          <e p="SkinColors.cs" t="Include" />
+          <e p="TexturedBase.cs" t="Include" />
+          <e p="Texturing" t="Include">
+            <e p="Bordered.cs" t="Include" />
+            <e p="Single.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Texture.cs" t="Include" />
+        <e p="ToolTip.cs" t="Include" />
+        <e p="Util.cs" t="Include" />
+      </e>
+      <e p="Gwen.Renderer.Monogame" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Extensions" t="Include">
+          <e p="ContentLoader.cs" t="Include" />
+          <e p="Conversions.cs" t="Include" />
+        </e>
+        <e p="Gwen.Renderer.Monogame.csproj" t="IncludeRecursive" />
+        <e p="Input" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="paket.references" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Renderer" t="Include">
+          <e p="Monogame.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Gwen.Renderer.OpenTK" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Gwen.Renderer.OpenTK.csproj" t="IncludeRecursive" />
+        <e p="Input" t="Include">
+          <e p="OpenTK.cs" t="Include" />
+          <e p="OpenTKAlternative.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OpenTK.dll.config" t="Include" />
+        <e p="paket.references" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Renderer" t="Include">
+          <e p="GLShader.cs" t="Include" />
+          <e p="OpenTK.cs" t="Include" />
+          <e p="StringCache.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Gwen.Sample.Monogame" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game.cs" t="Include" />
+        <e p="Gwen.Sample.Monogame.csproj" t="IncludeRecursive" />
+        <e p="MonoGame.Framework.dll.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="x64" t="Include" />
+        <e p="x86" t="Include" />
+      </e>
+      <e p="Gwen.Sample.OpenTK" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DefaultSkin.png" t="Include" />
+        <e p="gwen.png" t="Include" />
+        <e p="Gwen.Sample.OpenTK.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OpenSans.ttf" t="Include" />
+        <e p="OpenTK.dll.config" t="Include" />
+        <e p="paket.references" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SimpleGwenGame.cs" t="Include" />
+        <e p="test16.png" t="Include" />
+      </e>
+      <e p="Gwen.UnitTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Button.cs" t="Include" />
+        <e p="CheckBox.cs" t="Include" />
+        <e p="CollapsibleList.cs" t="Include" />
+        <e p="ColorPickers.cs" t="Include" />
+        <e p="ComboBox.cs" t="Include" />
+        <e p="CrossSplitter.cs" t="Include" />
+        <e p="Docking.cs" t="Include" />
+        <e p="GroupBox.cs" t="Include" />
+        <e p="GUnit.cs" t="Include" />
+        <e p="Gwen.UnitTest.csproj" t="IncludeRecursive" />
+        <e p="ImagePanel.cs" t="Include" />
+        <e p="Label.cs" t="Include" />
+        <e p="ListBox.cs" t="Include" />
+        <e p="Menu.cs" t="Include" />
+        <e p="NumericUpDown.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ProgressBar.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Properties.cs" t="Include" />
+        <e p="RadioButton.cs" t="Include" />
+        <e p="RichLabel.cs" t="Include" />
+        <e p="ScrollControl.cs" t="Include" />
+        <e p="Slider.cs" t="Include" />
+        <e p="StatusBar.cs" t="Include" />
+        <e p="TabControl.cs" t="Include" />
+        <e p="TextBox.cs" t="Include" />
+        <e p="TreeControl.cs" t="Include" />
+        <e p="UnitTest.cs" t="Include" />
+        <e p="Window.cs" t="Include" />
+      </e>
+      <e p="GwenNet.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\evanr\Documents\dev\Game.Droid\gwen-nolegacy-opentk-renderer\packages\SharpFont\config" t="Include">
+      <e p="SharpFont.dll.config" t="Include" />
+    </e>
+    <e p="C:\Users\evanr\Documents\dev\Game.Droid\gwen-nolegacy-opentk-renderer\packages\SharpFont.Dependencies\bin\msvc10\x86" t="Include">
+      <e p="freetype6.dll" t="Include" />
+    </e>
+    <e p="C:\Users\evanr\Documents\dev\Game.Droid\gwen-nolegacy-opentk-renderer\paket.dependencies" t="Include" />
+  </component>
+</project>

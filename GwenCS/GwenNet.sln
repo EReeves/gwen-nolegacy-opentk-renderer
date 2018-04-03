@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{F4C38092-8395-4A96-93A3-452F8639D40B}"
 	ProjectSection(SolutionItems) = preProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwen.Sample.OpenTK", "Gwen.Sample.OpenTK\Gwen.Sample.OpenTK.csproj", "{B316F57F-6D02-4487-95AE-EA88B9C995CE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwen.Renderer.OpenTK", "Gwen.Renderer.OpenTK\Gwen.Renderer.OpenTK.csproj", "{41650C82-D630-4E5C-845A-F1513C8FDC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwen.Renderer.Monogame", "Gwen.Renderer.Monogame\Gwen.Renderer.Monogame.csproj", "{41650C82-D630-4E5C-845A-F1513C8FDC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwen.Sample.Monogame", "Gwen.Sample.Monogame\Gwen.Sample.Monogame.csproj", "{56435B0A-92F3-439E-9E83-3E3BE90464D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,10 @@ Global
 		{41650C82-D630-4E5C-845A-F1513C8FDC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41650C82-D630-4E5C-845A-F1513C8FDC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41650C82-D630-4E5C-845A-F1513C8FDC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56435B0A-92F3-439E-9E83-3E3BE90464D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56435B0A-92F3-439E-9E83-3E3BE90464D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56435B0A-92F3-439E-9E83-3E3BE90464D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56435B0A-92F3-439E-9E83-3E3BE90464D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
