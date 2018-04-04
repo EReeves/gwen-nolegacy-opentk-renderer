@@ -10,225 +10,355 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Monogame.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-              <folding>
-                <marker date="1522762098186" expanded="true" signature="6:255" ph="..." />
-                <marker date="1522762098186" expanded="true" signature="289:1722" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="324:1720" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="642:819" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="875:1085" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="939:1075" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="1133:1265" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="1326:1427" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="1494:1567" ph="{...}" />
-                <marker date="1522762098186" expanded="true" signature="1621:1713" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenTK.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8209">
-              <caret line="295" column="21" lean-forward="false" selection-start-line="295" selection-start-column="21" selection-end-line="295" selection-end-column="21" />
-              <folding>
-                <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
-                <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="411:24618" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="487:567" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="1523:2180" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="2213:3381" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="2502:2575" ph="/* Vertex positions ... */" />
-                <marker date="1522757964836" expanded="true" signature="2773:2834" ph="/* Tex coords ... */" />
-                <marker date="1522757964836" expanded="true" signature="3033:3087" ph="/* Colors ... */" />
-                <marker date="1522757964836" expanded="true" signature="3415:3500" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="3532:4693" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="3791:4325" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="4033:4168" ph="/* GL.GetInteger(GetPName.AlphaTestFunc, out m_PrevAlphaFunc); ... */" />
-                <marker date="1522757964836" expanded="true" signature="4723:5240" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="4873:5236" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="5287:5341" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="5371:5691" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="5698:5786" ph="/// Returns number of cached strings in the text cache. ... " />
-                <marker date="1522757964836" expanded="true" signature="6153:6307" ph="/// Clears the text rendering cache. Make sure to call this if cached strings size becomes too big (check TextCac ... " />
-                <marker date="1522757964836" expanded="true" signature="6338:6445" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="6476:7139" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="6513:6670" ph="/* GL.InvalidateBufferData (vbo); ... */" />
-                <marker date="1522757964836" expanded="true" signature="7194:7328" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7223:7276" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7363:7436" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7401:7432" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7472:7505" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7539:7573" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7697:8228" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7774:7824" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="7986:8009" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="8036:8075" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="8101:8188" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="8325:10703" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="8363:8386" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="8409:8517" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="10811:12555" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="10854:11227" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="11062:11122" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="11302:11678" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="11513:11573" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="11715:12083" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="11919:11979" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="12156:12525" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="12361:12421" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="12602:13645" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="13446:13641" ph="/* Debug.Print(String.Format(&quot;LoadFont {0}&quot;, font.FaceName)); ... */" />
-                <marker date="1522757964836" expanded="true" signature="13689:14083" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="14151:14349" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="14410:14721" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="14470:14714" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text)); ... */" />
-                <marker date="1522757964836" expanded="true" signature="14795:15138" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="14862:15131" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text) &amp;&amp; kv.Key.Color == color); ... */" />
-                <marker date="1522757964836" expanded="true" signature="15202:16706" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="15331:15483" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="15747:16039" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="16053:16154" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="16322:16517" ph="/* SizeF TabSize = m_Graphics.MeasureString(&quot;....&quot;, sysFont); //Spaces are not being picked up, let's just use .' ... */" />
-                <marker date="1522757964836" expanded="true" signature="16797:18508" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="16805:16967" ph="/* Debug.Print(String.Format(&quot;RenderText {0}&quot;, font.FaceName)); ... */" />
-                <marker date="1522757964836" expanded="true" signature="17464:17557" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="17797:18397" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="18575:19906" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="18696:18949" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="19593:19876" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="19953:20138" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="19979:20019" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20040:20083" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20214:20397" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20240:20278" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20299:20342" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20465:22017" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20491:20661" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20507:20656" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="20682:20725" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="21509:21952" ph="/* [halfofastaple] Must rebind previous texture, to ensure creating a texture doesn't mess with the render flow. ... */" />
-                <marker date="1522757964836" expanded="true" signature="22064:22238" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="22334:23446" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="22718:22963" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="22968:23425" ph="/* [???] Retrieving the entire texture for a single pixel read ... */" />
-                <marker date="1522757964836" expanded="true" signature="23553:23718" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="23786:23851" ph="{...}" />
-                <marker date="1522757964836" expanded="true" signature="23861:24098" ph="/// Updates the current projection matrix for the render. NOTE the Gwen.NET coordinate system expects (x,y) = (0, ... " />
-                <marker date="1522757964836" expanded="true" signature="24169:24614" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-              <folding>
-                <marker date="1522763924784" expanded="false" signature="6:107" ph="..." />
-                <marker date="1522763924784" expanded="true" signature="140:1238" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="195:1236" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="297:428" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="474:560" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="607:686" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="735:755" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="814:1064" ph="{...}" />
-                <marker date="1522763924784" expanded="true" signature="1121:1230" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonoGame.Framework.dll.config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/MonoGame.Framework.dll.config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Content.mgcb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.Desktop.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="125" column="20" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="127" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gwen.Sample.Monogame.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Gwen.Sample.Monogame.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentLoader.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <marker date="1522761346422" expanded="true" signature="6:82" ph="..." />
-                <marker date="1522761346422" expanded="true" signature="118:277" ph="{...}" />
-                <marker date="1522761346422" expanded="true" signature="158:275" ph="{...}" />
-                <marker date="1522761346422" expanded="true" signature="236:269" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conversions.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <marker date="1522762100368" expanded="true" signature="6:60" ph="..." />
-                <marker date="1522762100368" expanded="true" signature="96:494" ph="{...}" />
-                <marker date="1522762100368" expanded="true" signature="134:492" ph="{...}" />
-                <marker date="1522762100368" expanded="true" signature="227:320" ph="{...}" />
-                <marker date="1522762100368" expanded="true" signature="399:486" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Monogame.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+                  <folding>
+                    <marker date="1522843381519" expanded="false" signature="6:289" ph="..." />
+                    <marker date="1522843381519" expanded="true" signature="314:2520" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="321:411" ph="/// Monogame renderer for GWEN ... " />
+                    <marker date="1522843381519" expanded="true" signature="444:2518" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="800:990" ph="/// Both a SpriteBatch and ContentManager are required. ... " />
+                    <marker date="1522843381519" expanded="true" signature="1063:1240" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="1250:1407" ph="/// Current color to draw. ... " />
+                    <marker date="1522843381519" expanded="true" signature="1462:1667" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="1526:1657" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="1715:1842" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="1930:2027" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="2121:2194" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="2275:2367" ph="{...}" />
+                    <marker date="1522843381519" expanded="true" signature="2447:2512" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Gwen.Renderer.Monogame.csproj" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Gwen.Renderer.Monogame.csproj">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Conversions.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1522843946472" expanded="true" signature="67:857" ph="{...}" />
+                    <marker date="1522843946472" expanded="true" signature="105:855" ph="{...}" />
+                    <marker date="1522843946472" expanded="true" signature="202:297" ph="{...}" />
+                    <marker date="1522843946472" expanded="true" signature="390:500" ph="{...}" />
+                    <marker date="1522843946472" expanded="true" signature="574:664" ph="{...}" />
+                    <marker date="1522843946472" expanded="true" signature="739:849" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SimpleGwenGame.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/SimpleGwenGame.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="84">
+                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="43" />
+                  <folding>
+                    <marker date="1522757964914" expanded="false" signature="6:243" ph="..." />
+                    <marker date="1522757964914" expanded="true" signature="273:6678" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="277:346" ph="/// Demonstrates the GameWindow class. ... " />
+                    <marker date="1522757964914" expanded="true" signature="386:6676" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="955:1259" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="1293:1383" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="1387:1591" ph="/// Occurs when a key is pressed. ... " />
+                    <marker date="1522757964914" expanded="true" signature="1654:2029" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2091:2145" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2212:2256" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2321:2365" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2424:2468" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2529:2573" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2577:2691" ph="/// Setup OpenGL and load resources here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="2737:3869" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="3192:3462" ph="/* canvas.KeyboardInputEnabled = true; ... */" />
+                    <marker date="1522757964914" expanded="true" signature="3527:3823" ph="/* var button = new Button(canvas); ... */" />
+                    <marker date="1522757964914" expanded="true" signature="3873:4094" ph="/// Respond to resize events here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="4142:4508" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="4512:4708" ph="/// Add your game logic here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="4766:5882" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="5045:5878" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="5886:6091" ph="/// Add your game rendering code here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="6173:6314" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="6318:6383" ph="/// Entry point of this example. ... " />
+                    <marker date="1522757964914" expanded="true" signature="6425:6673" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="6482:6669" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Button.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.UnitTest/Button.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+                  <folding>
+                    <marker date="1522757964939" expanded="false" signature="6:33" ph="..." />
+                    <marker date="1522757964939" expanded="true" signature="58:2748" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="92:2746" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="273:2020" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2077:2139" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2196:2258" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2315:2378" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2433:2495" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2552:2617" ph="{...}" />
+                    <marker date="1522757964939" expanded="true" signature="2675:2740" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GwenNet.sln" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/GwenNet.sln">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="OpenTK.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15519">
+                  <caret line="752" column="48" lean-forward="false" selection-start-line="752" selection-start-column="48" selection-end-line="752" selection-end-column="48" />
+                  <folding>
+                    <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
+                    <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="411:24618" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="487:567" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="1523:2180" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="2213:3381" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="2502:2575" ph="/* Vertex positions ... */" />
+                    <marker date="1522757964836" expanded="true" signature="2773:2834" ph="/* Tex coords ... */" />
+                    <marker date="1522757964836" expanded="true" signature="3033:3087" ph="/* Colors ... */" />
+                    <marker date="1522757964836" expanded="true" signature="3415:3500" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="3532:4693" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="3791:4325" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="4033:4168" ph="/* GL.GetInteger(GetPName.AlphaTestFunc, out m_PrevAlphaFunc); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="4723:5240" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="4873:5236" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="5287:5341" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="5371:5691" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="5698:5786" ph="/// Returns number of cached strings in the text cache. ... " />
+                    <marker date="1522757964836" expanded="true" signature="6153:6307" ph="/// Clears the text rendering cache. Make sure to call this if cached strings size becomes too big (check TextCac ... " />
+                    <marker date="1522757964836" expanded="true" signature="6338:6445" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="6476:7139" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="6513:6670" ph="/* GL.InvalidateBufferData (vbo); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="7194:7328" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7223:7276" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7363:7436" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7401:7432" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7472:7505" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7539:7573" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7697:8228" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7774:7824" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="7986:8009" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="8036:8075" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="8101:8188" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="8325:10703" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="8363:8386" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="8409:8517" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="10811:12555" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="10854:11227" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="11062:11122" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="11302:11678" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="11513:11573" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="11715:12083" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="11919:11979" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="12156:12525" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="12361:12421" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="12602:13645" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="13446:13641" ph="/* Debug.Print(String.Format(&quot;LoadFont {0}&quot;, font.FaceName)); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="13689:14083" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="14151:14349" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="14410:14721" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="14470:14714" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text)); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="14795:15138" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="14862:15131" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text) &amp;&amp; kv.Key.Color == color); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="15202:16706" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="15331:15483" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="15747:16039" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="16053:16154" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="16322:16517" ph="/* SizeF TabSize = m_Graphics.MeasureString(&quot;....&quot;, sysFont); //Spaces are not being picked up, let's just use .' ... */" />
+                    <marker date="1522757964836" expanded="true" signature="16797:18508" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="16805:16967" ph="/* Debug.Print(String.Format(&quot;RenderText {0}&quot;, font.FaceName)); ... */" />
+                    <marker date="1522757964836" expanded="true" signature="17464:17557" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="17797:18397" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="18575:19906" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="18696:18949" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="19593:19876" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="19953:20138" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="19979:20019" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20040:20083" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20214:20397" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20240:20278" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20299:20342" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20465:22017" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20491:20661" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20507:20656" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="20682:20725" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="21509:21952" ph="/* [halfofastaple] Must rebind previous texture, to ensure creating a texture doesn't mess with the render flow. ... */" />
+                    <marker date="1522757964836" expanded="true" signature="22064:22238" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="22334:23446" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="22718:22963" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="22968:23425" ph="/* [???] Retrieving the entire texture for a single pixel read ... */" />
+                    <marker date="1522757964836" expanded="true" signature="23553:23718" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="23786:23851" ph="{...}" />
+                    <marker date="1522757964836" expanded="true" signature="23861:24098" ph="/// Updates the current projection matrix for the render. NOTE the Gwen.NET coordinate system expects (x,y) = (0, ... " />
+                    <marker date="1522757964836" expanded="true" signature="24169:24614" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Game.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="168">
+                  <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+                  <folding>
+                    <marker date="1522844810623" expanded="true" signature="6:204" ph="..." />
+                    <marker date="1522844810623" expanded="true" signature="236:2178" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="291:2176" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="547:678" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="724:810" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="857:1369" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="1421:1531" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="1590:1840" ph="{...}" />
+                    <marker date="1522844810623" expanded="true" signature="1897:2170" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Canvas.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen/Control/Canvas.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="318">
+                  <caret line="134" column="12" lean-forward="false" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
+                  <folding>
+                    <marker date="1522757965249" expanded="false" signature="6:125" ph="..." />
+                    <marker date="1522757965249" expanded="true" signature="149:9237" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="156:265" ph="/// Canvas control. It should be the root parent for all other controls. ... " />
+                    <marker date="1522757965249" expanded="true" signature="296:9235" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="761:830" ph="/// Scale for rendering. ... " />
+                    <marker date="1522757965249" expanded="true" signature="857:1229" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="919:1219" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="1239:1305" ph="/// Background color. ... " />
+                    <marker date="1522757965249" expanded="true" signature="1425:1687" ph="/// In most situations you will be rendering the canvas every frame.  ... " />
+                    <marker date="1522757965249" expanded="true" signature="1794:1956" ph="/// Initializes a new instance of the &lt;see cref=&quot;Canvas&quot;/&gt; class. ... " />
+                    <marker date="1522757965249" expanded="true" signature="1994:2250" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="2290:2375" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="2385:2485" ph="/// Re-renders the control, invalidates cached texture. ... " />
+                    <marker date="1522757965249" expanded="true" signature="2523:2602" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="2620:2710" ph="/* Children call parent.GetCanvas() until they get to ... */" />
+                    <marker date="1522757965249" expanded="true" signature="2753:2798" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="2808:2938" ph="/// Additional initialization (which is sometimes not appropriate in the constructor) ... " />
+                    <marker date="1522757965249" expanded="true" signature="2974:2995" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="3005:3102" ph="/// Renders the canvas. Call in your rendering loop. ... " />
+                    <marker date="1522757965249" expanded="true" signature="3137:3881" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="3550:3685" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="3891:4033" ph="/// Renders the control using specified skin. ... " />
+                    <marker date="1522757965249" expanded="true" signature="4088:4223" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="4233:4383" ph="/// Handler invoked when control's bounds change. ... " />
+                    <marker date="1522757965249" expanded="true" signature="4452:4555" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="4565:4675" ph="/// Processes input and layout. Also purges delayed delete queue. ... " />
+                    <marker date="1522757965249" expanded="true" signature="4706:5204" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="5214:5440" ph="/// Adds given control to the delete queue and detaches it from canvas. Don't call from Dispose, it modifies chil ... " />
+                    <marker date="1522757965249" expanded="true" signature="5491:5792" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="5552:5670" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="5838:6176" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="5861:6007" ph="/* if (m_DisposeQueue.Count &gt; 0) ... */" />
+                    <marker date="1522757965249" expanded="true" signature="6067:6130" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="6186:6343" ph="/// Handles mouse movement events. Called from Input subsystems. ... " />
+                    <marker date="1522757965249" expanded="true" signature="6410:7076" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="6490:6565" ph="/* Todo: Handle scaling here.. ... */" />
+                    <marker date="1522757965249" expanded="true" signature="7086:7241" ph="/// Handles mouse button events. Called from Input subsystems. ... " />
+                    <marker date="1522757965249" expanded="true" signature="7302:7431" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="7441:7592" ph="/// Handles keyboard events. Called from Input subsystems. ... " />
+                    <marker date="1522757965249" expanded="true" signature="7642:7862" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="7872:8023" ph="/// Handles keyboard events. Called from Input subsystems. ... " />
+                    <marker date="1522757965249" expanded="true" signature="8069:8670" ph="{...}" />
+                    <marker date="1522757965249" expanded="true" signature="8680:8838" ph="/// Handles the mouse wheel events. Called from Input subsystems. ... " />
+                    <marker date="1522757965249" expanded="true" signature="8884:9229" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Base.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gwen/Control/Base.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="171">
+                  <caret line="355" column="69" lean-forward="false" selection-start-line="355" selection-start-column="69" selection-end-line="355" selection-end-column="69" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="SimpleGwenGame.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/SimpleGwenGame.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-3360">
+                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="43" />
+                  <folding>
+                    <marker date="1522757964914" expanded="false" signature="6:243" ph="..." />
+                    <marker date="1522757964914" expanded="true" signature="273:6678" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="277:346" ph="/// Demonstrates the GameWindow class. ... " />
+                    <marker date="1522757964914" expanded="true" signature="386:6676" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="955:1259" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="1293:1383" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="1387:1591" ph="/// Occurs when a key is pressed. ... " />
+                    <marker date="1522757964914" expanded="true" signature="1654:2029" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2091:2145" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2212:2256" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2321:2365" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2424:2468" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2529:2573" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="2577:2691" ph="/// Setup OpenGL and load resources here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="2737:3869" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="3192:3462" ph="/* canvas.KeyboardInputEnabled = true; ... */" />
+                    <marker date="1522757964914" expanded="true" signature="3527:3823" ph="/* var button = new Button(canvas); ... */" />
+                    <marker date="1522757964914" expanded="true" signature="3873:4094" ph="/// Respond to resize events here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="4142:4508" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="4512:4708" ph="/// Add your game logic here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="4766:5882" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="5045:5878" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="5886:6091" ph="/// Add your game rendering code here. ... " />
+                    <marker date="1522757964914" expanded="true" signature="6173:6314" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="6318:6383" ph="/// Entry point of this example. ... " />
+                    <marker date="1522757964914" expanded="true" signature="6425:6673" ph="{...}" />
+                    <marker date="1522757964914" expanded="true" signature="6482:6669" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -237,12 +367,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen/Control/Base.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/MonoGame.Framework.dll.config" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen/Control/Canvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen.UnitTest/Button.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/GLShader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/SimpleGwenGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -252,22 +385,23 @@
         <option value="$PROJECT_DIR$/../paket.dependencies" />
         <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/paket.references" />
         <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Properties/AssemblyInfo.cs" />
-        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs" />
-        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs" />
-        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs" />
         <option value="$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs" />
         <option value="$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb" />
         <option value="$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj" />
         <option value="$PROJECT_DIR$/Gwen.Sample.Monogame/Gwen.Sample.Monogame.csproj" />
+        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Gwen.Renderer.Monogame.csproj" />
+        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs" />
+        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs" />
+        <option value="$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs" />
         <option value="$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2180" />
-    <option name="y" value="21" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1062" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -284,6 +418,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -294,7 +429,19 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="GwenNet (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".paket" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gwen.Renderer.Monogame" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GwenNet (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gwen.Renderer.Monogame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Extensions" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GwenNet (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gwen.Renderer.Monogame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Renderer" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -304,7 +451,15 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="GwenNet (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Gwen.Sample.OpenTK" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gwen.Sample.Monogame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GwenNet (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gwen.Sample.Monogame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Projects" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -312,11 +467,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,157 +540,521 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1062" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1062" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="806" y="50" width="307" height="945" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../paket.dependencies">
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/paket.references">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Properties/AssemblyInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="882">
+          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
-            <marker date="1522759109654" expanded="false" signature="6:101" ph="..." />
-            <marker date="1522759109654" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1522759109654" expanded="true" signature="636:846" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-            <marker date="1522759109654" expanded="true" signature="879:1206" ph="/* Version information for an assembly consists of the following four values: ... */" />
+            <marker date="1522843381519" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522843381519" expanded="true" signature="314:2520" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="321:411" ph="/// Monogame renderer for GWEN ... " />
+            <marker date="1522843381519" expanded="true" signature="444:2518" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="800:990" ph="/// Both a SpriteBatch and ContentManager are required. ... " />
+            <marker date="1522843381519" expanded="true" signature="1063:1240" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1250:1407" ph="/// Current color to draw. ... " />
+            <marker date="1522843381519" expanded="true" signature="1462:1667" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1526:1657" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1715:1842" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1930:2027" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2121:2194" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2275:2367" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2447:2512" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/gwen.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/Gwen.UnitTest/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <marker date="1522757964939" expanded="false" signature="6:33" ph="..." />
+            <marker date="1522757964939" expanded="true" signature="58:2748" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="92:2746" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="273:2020" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2077:2139" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2196:2258" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2315:2378" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2433:2495" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2552:2617" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2675:2740" ph="{...}" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/SimpleGwenGame.cs">
+    <entry file="file://$PROJECT_DIR$/GwenNet.sln">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="357">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15519">
+          <caret line="752" column="48" lean-forward="false" selection-start-line="752" selection-start-column="48" selection-end-line="752" selection-end-column="48" />
+          <folding>
+            <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
+            <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="411:24618" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="487:567" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="1523:2180" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2213:3381" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2502:2575" ph="/* Vertex positions ... */" />
+            <marker date="1522757964836" expanded="true" signature="2773:2834" ph="/* Tex coords ... */" />
+            <marker date="1522757964836" expanded="true" signature="3033:3087" ph="/* Colors ... */" />
+            <marker date="1522757964836" expanded="true" signature="3415:3500" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3532:4693" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3791:4325" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4033:4168" ph="/* GL.GetInteger(GetPName.AlphaTestFunc, out m_PrevAlphaFunc); ... */" />
+            <marker date="1522757964836" expanded="true" signature="4723:5240" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4873:5236" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5287:5341" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5371:5691" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5698:5786" ph="/// Returns number of cached strings in the text cache. ... " />
+            <marker date="1522757964836" expanded="true" signature="6153:6307" ph="/// Clears the text rendering cache. Make sure to call this if cached strings size becomes too big (check TextCac ... " />
+            <marker date="1522757964836" expanded="true" signature="6338:6445" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6476:7139" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6513:6670" ph="/* GL.InvalidateBufferData (vbo); ... */" />
+            <marker date="1522757964836" expanded="true" signature="7194:7328" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7223:7276" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7363:7436" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7401:7432" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7472:7505" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7539:7573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7697:8228" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7774:7824" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7986:8009" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8036:8075" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8101:8188" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8325:10703" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8363:8386" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8409:8517" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10811:12555" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10854:11227" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11062:11122" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11302:11678" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11513:11573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11715:12083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11919:11979" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12156:12525" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12361:12421" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12602:13645" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="13446:13641" ph="/* Debug.Print(String.Format(&quot;LoadFont {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="13689:14083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14151:14349" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14410:14721" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14470:14714" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="14795:15138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14862:15131" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text) &amp;&amp; kv.Key.Color == color); ... */" />
+            <marker date="1522757964836" expanded="true" signature="15202:16706" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15331:15483" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15747:16039" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16053:16154" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16322:16517" ph="/* SizeF TabSize = m_Graphics.MeasureString(&quot;....&quot;, sysFont); //Spaces are not being picked up, let's just use .' ... */" />
+            <marker date="1522757964836" expanded="true" signature="16797:18508" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16805:16967" ph="/* Debug.Print(String.Format(&quot;RenderText {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="17464:17557" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="17797:18397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18575:19906" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18696:18949" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19593:19876" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19953:20138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19979:20019" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20040:20083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20214:20397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20240:20278" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20299:20342" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20465:22017" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20491:20661" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20507:20656" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20682:20725" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="21509:21952" ph="/* [halfofastaple] Must rebind previous texture, to ensure creating a texture doesn't mess with the render flow. ... */" />
+            <marker date="1522757964836" expanded="true" signature="22064:22238" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22334:23446" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22718:22963" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22968:23425" ph="/* [???] Retrieving the entire texture for a single pixel read ... */" />
+            <marker date="1522757964836" expanded="true" signature="23553:23718" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23786:23851" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23861:24098" ph="/// Updates the current projection matrix for the render. NOTE the Gwen.NET coordinate system expects (x,y) = (0, ... " />
+            <marker date="1522757964836" expanded="true" signature="24169:24614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1522763074450" expanded="true" signature="79:228" ph="{...}" />
+            <marker date="1522763074450" expanded="true" signature="132:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <marker date="1522844810623" expanded="true" signature="6:204" ph="..." />
+            <marker date="1522844810623" expanded="true" signature="236:2178" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="291:2176" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="547:678" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="724:810" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="857:1369" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1421:1531" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1590:1840" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1897:2170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/GLShader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522757964914" expanded="false" signature="6:243" ph="..." />
-            <marker date="1522757964914" expanded="true" signature="273:6678" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="277:346" ph="/// Demonstrates the GameWindow class. ... " />
-            <marker date="1522757964914" expanded="true" signature="386:6676" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="955:1259" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="1293:1383" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="1387:1591" ph="/// Occurs when a key is pressed. ... " />
-            <marker date="1522757964914" expanded="true" signature="1654:2029" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2091:2145" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2212:2256" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2321:2365" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2424:2468" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2529:2573" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="2577:2691" ph="/// Setup OpenGL and load resources here. ... " />
-            <marker date="1522757964914" expanded="true" signature="2737:3869" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="3192:3462" ph="/* canvas.KeyboardInputEnabled = true; ... */" />
-            <marker date="1522757964914" expanded="true" signature="3527:3823" ph="/* var button = new Button(canvas); ... */" />
-            <marker date="1522757964914" expanded="true" signature="3873:4094" ph="/// Respond to resize events here. ... " />
-            <marker date="1522757964914" expanded="true" signature="4142:4508" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="4512:4708" ph="/// Add your game logic here. ... " />
-            <marker date="1522757964914" expanded="true" signature="4766:5882" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="5045:5878" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="5886:6091" ph="/// Add your game rendering code here. ... " />
-            <marker date="1522757964914" expanded="true" signature="6173:6314" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="6318:6383" ph="/// Entry point of this example. ... " />
-            <marker date="1522757964914" expanded="true" signature="6425:6673" ph="{...}" />
-            <marker date="1522757964914" expanded="true" signature="6482:6669" ph="{...}" />
+            <marker date="1522757964819" expanded="false" signature="6:160" ph="..." />
+            <marker date="1522757964819" expanded="true" signature="185:3183" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="224:3181" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="488:571" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="611:653" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="677:718" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="791:1647" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1698:1826" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1860:2361" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1974:2052" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2084:2357" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2097:2352" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2144:2264" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2387:2431" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <marker date="1522762100368" expanded="true" signature="6:60" ph="..." />
-            <marker date="1522762100368" expanded="true" signature="96:494" ph="{...}" />
-            <marker date="1522762100368" expanded="true" signature="134:492" ph="{...}" />
-            <marker date="1522762100368" expanded="true" signature="227:320" ph="{...}" />
-            <marker date="1522762100368" expanded="true" signature="399:486" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <marker date="1522761346422" expanded="true" signature="6:82" ph="..." />
-            <marker date="1522761346422" expanded="true" signature="118:277" ph="{...}" />
-            <marker date="1522761346422" expanded="true" signature="158:275" ph="{...}" />
-            <marker date="1522761346422" expanded="true" signature="236:269" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="67:857" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="105:855" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="202:297" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="390:500" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="574:664" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="739:849" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522762098186" expanded="true" signature="6:255" ph="..." />
-            <marker date="1522762098186" expanded="true" signature="289:1722" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="324:1720" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="642:819" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="875:1085" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="939:1075" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="1133:1265" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="1326:1427" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="1494:1567" ph="{...}" />
-            <marker date="1522762098186" expanded="true" signature="1621:1713" ph="{...}" />
+            <marker date="1522843381519" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522843381519" expanded="true" signature="314:2520" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="321:411" ph="/// Monogame renderer for GWEN ... " />
+            <marker date="1522843381519" expanded="true" signature="444:2518" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="800:990" ph="/// Both a SpriteBatch and ContentManager are required. ... " />
+            <marker date="1522843381519" expanded="true" signature="1063:1240" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1250:1407" ph="/// Current color to draw. ... " />
+            <marker date="1522843381519" expanded="true" signature="1462:1667" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1526:1657" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1715:1842" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1930:2027" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2121:2194" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2275:2367" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2447:2512" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8209">
-          <caret line="295" column="21" lean-forward="false" selection-start-line="295" selection-start-column="21" selection-end-line="295" selection-end-column="21" />
+        <state relative-caret-position="15519">
+          <caret line="752" column="48" lean-forward="false" selection-start-line="752" selection-start-column="48" selection-end-line="752" selection-end-column="48" />
+          <folding>
+            <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
+            <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="411:24618" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="487:567" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="1523:2180" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2213:3381" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2502:2575" ph="/* Vertex positions ... */" />
+            <marker date="1522757964836" expanded="true" signature="2773:2834" ph="/* Tex coords ... */" />
+            <marker date="1522757964836" expanded="true" signature="3033:3087" ph="/* Colors ... */" />
+            <marker date="1522757964836" expanded="true" signature="3415:3500" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3532:4693" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3791:4325" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4033:4168" ph="/* GL.GetInteger(GetPName.AlphaTestFunc, out m_PrevAlphaFunc); ... */" />
+            <marker date="1522757964836" expanded="true" signature="4723:5240" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4873:5236" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5287:5341" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5371:5691" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5698:5786" ph="/// Returns number of cached strings in the text cache. ... " />
+            <marker date="1522757964836" expanded="true" signature="6153:6307" ph="/// Clears the text rendering cache. Make sure to call this if cached strings size becomes too big (check TextCac ... " />
+            <marker date="1522757964836" expanded="true" signature="6338:6445" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6476:7139" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6513:6670" ph="/* GL.InvalidateBufferData (vbo); ... */" />
+            <marker date="1522757964836" expanded="true" signature="7194:7328" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7223:7276" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7363:7436" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7401:7432" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7472:7505" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7539:7573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7697:8228" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7774:7824" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7986:8009" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8036:8075" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8101:8188" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8325:10703" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8363:8386" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8409:8517" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10811:12555" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10854:11227" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11062:11122" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11302:11678" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11513:11573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11715:12083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11919:11979" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12156:12525" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12361:12421" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12602:13645" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="13446:13641" ph="/* Debug.Print(String.Format(&quot;LoadFont {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="13689:14083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14151:14349" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14410:14721" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14470:14714" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="14795:15138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14862:15131" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text) &amp;&amp; kv.Key.Color == color); ... */" />
+            <marker date="1522757964836" expanded="true" signature="15202:16706" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15331:15483" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15747:16039" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16053:16154" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16322:16517" ph="/* SizeF TabSize = m_Graphics.MeasureString(&quot;....&quot;, sysFont); //Spaces are not being picked up, let's just use .' ... */" />
+            <marker date="1522757964836" expanded="true" signature="16797:18508" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16805:16967" ph="/* Debug.Print(String.Format(&quot;RenderText {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="17464:17557" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="17797:18397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18575:19906" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18696:18949" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19593:19876" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19953:20138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19979:20019" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20040:20083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20214:20397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20240:20278" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20299:20342" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20465:22017" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20491:20661" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20507:20656" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20682:20725" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="21509:21952" ph="/* [halfofastaple] Must rebind previous texture, to ensure creating a texture doesn't mess with the render flow. ... */" />
+            <marker date="1522757964836" expanded="true" signature="22064:22238" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22334:23446" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22718:22963" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22968:23425" ph="/* [???] Retrieving the entire texture for a single pixel read ... */" />
+            <marker date="1522757964836" expanded="true" signature="23553:23718" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23786:23851" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23861:24098" ph="/// Updates the current projection matrix for the render. NOTE the Gwen.NET coordinate system expects (x,y) = (0, ... " />
+            <marker date="1522757964836" expanded="true" signature="24169:24614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1522763074450" expanded="true" signature="79:228" ph="{...}" />
+            <marker date="1522763074450" expanded="true" signature="132:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <marker date="1522844810623" expanded="true" signature="6:204" ph="..." />
+            <marker date="1522844810623" expanded="true" signature="236:2178" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="291:2176" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="547:678" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="724:810" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="857:1369" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1421:1531" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1590:1840" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1897:2170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/GLShader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522757964819" expanded="false" signature="6:160" ph="..." />
+            <marker date="1522757964819" expanded="true" signature="185:3183" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="224:3181" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="488:571" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="611:653" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="677:718" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="791:1647" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1698:1826" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1860:2361" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1974:2052" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2084:2357" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2097:2352" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2144:2264" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2387:2431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="125" column="20" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Gwen.Sample.Monogame.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522843381519" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522843381519" expanded="true" signature="314:2520" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="321:411" ph="/// Monogame renderer for GWEN ... " />
+            <marker date="1522843381519" expanded="true" signature="444:2518" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="800:990" ph="/// Both a SpriteBatch and ContentManager are required. ... " />
+            <marker date="1522843381519" expanded="true" signature="1063:1240" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1250:1407" ph="/// Current color to draw. ... " />
+            <marker date="1522843381519" expanded="true" signature="1462:1667" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1526:1657" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1715:1842" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1930:2027" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2121:2194" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2275:2367" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2447:2512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13302">
+          <caret line="752" column="48" lean-forward="false" selection-start-line="752" selection-start-column="48" selection-end-line="752" selection-end-column="48" />
           <folding>
             <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
             <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
@@ -628,7 +1148,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1522763074450" expanded="true" signature="79:228" ph="{...}" />
+            <marker date="1522763074450" expanded="true" signature="132:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <marker date="1522844810623" expanded="true" signature="6:204" ph="..." />
+            <marker date="1522844810623" expanded="true" signature="236:2178" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="291:2176" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="547:678" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="724:810" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="857:1369" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1421:1531" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1590:1840" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1897:2170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/GLShader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522757964819" expanded="false" signature="6:160" ph="..." />
+            <marker date="1522757964819" expanded="true" signature="185:3183" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="224:3181" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="488:571" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="611:653" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="677:718" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="791:1647" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1698:1826" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1860:2361" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1974:2052" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2084:2357" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2097:2352" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2144:2264" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2387:2431" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -636,14 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="125" column="20" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="127" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -656,28 +1212,405 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="125" column="20" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Gwen.Sample.Monogame.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+        <state relative-caret-position="1242">
+          <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../paket.dependencies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/paket.references">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/gwen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Gwen.Sample.Monogame.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Game.Desktop/Game.Desktop.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="125" column="20" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Content/Content.mgcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/GLShader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522757964819" expanded="false" signature="6:160" ph="..." />
+            <marker date="1522757964819" expanded="true" signature="185:3183" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="224:3181" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="488:571" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="611:653" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="677:718" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="791:1647" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1698:1826" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1860:2361" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="1974:2052" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2084:2357" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2097:2352" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2144:2264" ph="{...}" />
+            <marker date="1522757964819" expanded="true" signature="2387:2431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1522763074450" expanded="true" signature="79:228" ph="{...}" />
+            <marker date="1522763074450" expanded="true" signature="132:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GwenNet.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.UnitTest/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <marker date="1522757964939" expanded="false" signature="6:33" ph="..." />
+            <marker date="1522757964939" expanded="true" signature="58:2748" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="92:2746" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="273:2020" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2077:2139" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2196:2258" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2315:2378" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2433:2495" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2552:2617" ph="{...}" />
+            <marker date="1522757964939" expanded="true" signature="2675:2740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.OpenTK/Renderer/OpenTK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15519">
+          <caret line="752" column="48" lean-forward="false" selection-start-line="752" selection-start-column="48" selection-end-line="752" selection-end-column="48" />
+          <folding>
+            <marker date="1522757964836" expanded="false" signature="6:356" ph="..." />
+            <marker date="1522757964836" expanded="true" signature="381:24622" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="411:24618" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="487:567" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="1523:2180" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2213:3381" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="2502:2575" ph="/* Vertex positions ... */" />
+            <marker date="1522757964836" expanded="true" signature="2773:2834" ph="/* Tex coords ... */" />
+            <marker date="1522757964836" expanded="true" signature="3033:3087" ph="/* Colors ... */" />
+            <marker date="1522757964836" expanded="true" signature="3415:3500" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3532:4693" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="3791:4325" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4033:4168" ph="/* GL.GetInteger(GetPName.AlphaTestFunc, out m_PrevAlphaFunc); ... */" />
+            <marker date="1522757964836" expanded="true" signature="4723:5240" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="4873:5236" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5287:5341" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5371:5691" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="5698:5786" ph="/// Returns number of cached strings in the text cache. ... " />
+            <marker date="1522757964836" expanded="true" signature="6153:6307" ph="/// Clears the text rendering cache. Make sure to call this if cached strings size becomes too big (check TextCac ... " />
+            <marker date="1522757964836" expanded="true" signature="6338:6445" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6476:7139" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="6513:6670" ph="/* GL.InvalidateBufferData (vbo); ... */" />
+            <marker date="1522757964836" expanded="true" signature="7194:7328" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7223:7276" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7363:7436" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7401:7432" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7472:7505" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7539:7573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7697:8228" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7774:7824" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="7986:8009" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8036:8075" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8101:8188" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8325:10703" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8363:8386" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="8409:8517" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10811:12555" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="10854:11227" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11062:11122" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11302:11678" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11513:11573" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11715:12083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="11919:11979" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12156:12525" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12361:12421" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="12602:13645" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="13446:13641" ph="/* Debug.Print(String.Format(&quot;LoadFont {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="13689:14083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14151:14349" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14410:14721" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14470:14714" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="14795:15138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="14862:15131" ph="/* var kvp = m_StringCache.Where(kv =&gt; string.Equals(kv.Key.Text, text) &amp;&amp; kv.Key.Color == color); ... */" />
+            <marker date="1522757964836" expanded="true" signature="15202:16706" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15331:15483" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="15747:16039" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16053:16154" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16322:16517" ph="/* SizeF TabSize = m_Graphics.MeasureString(&quot;....&quot;, sysFont); //Spaces are not being picked up, let's just use .' ... */" />
+            <marker date="1522757964836" expanded="true" signature="16797:18508" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="16805:16967" ph="/* Debug.Print(String.Format(&quot;RenderText {0}&quot;, font.FaceName)); ... */" />
+            <marker date="1522757964836" expanded="true" signature="17464:17557" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="17797:18397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18575:19906" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="18696:18949" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19593:19876" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19953:20138" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="19979:20019" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20040:20083" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20214:20397" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20240:20278" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20299:20342" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20465:22017" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20491:20661" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20507:20656" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="20682:20725" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="21509:21952" ph="/* [halfofastaple] Must rebind previous texture, to ensure creating a texture doesn't mess with the render flow. ... */" />
+            <marker date="1522757964836" expanded="true" signature="22064:22238" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22334:23446" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22718:22963" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="22968:23425" ph="/* [???] Retrieving the entire texture for a single pixel read ... */" />
+            <marker date="1522757964836" expanded="true" signature="23553:23718" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23786:23851" ph="{...}" />
+            <marker date="1522757964836" expanded="true" signature="23861:24098" ph="/// Updates the current projection matrix for the render. NOTE the Gwen.NET coordinate system expects (x,y) = (0, ... " />
+            <marker date="1522757964836" expanded="true" signature="24169:24614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Gwen.Renderer.Monogame.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Sample.OpenTK/SimpleGwenGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <marker date="1522757964914" expanded="false" signature="6:243" ph="..." />
+            <marker date="1522757964914" expanded="true" signature="273:6678" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="277:346" ph="/// Demonstrates the GameWindow class. ... " />
+            <marker date="1522757964914" expanded="true" signature="386:6676" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="955:1259" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="1293:1383" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="1387:1591" ph="/// Occurs when a key is pressed. ... " />
+            <marker date="1522757964914" expanded="true" signature="1654:2029" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2091:2145" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2212:2256" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2321:2365" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2424:2468" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2529:2573" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="2577:2691" ph="/// Setup OpenGL and load resources here. ... " />
+            <marker date="1522757964914" expanded="true" signature="2737:3869" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="3192:3462" ph="/* canvas.KeyboardInputEnabled = true; ... */" />
+            <marker date="1522757964914" expanded="true" signature="3527:3823" ph="/* var button = new Button(canvas); ... */" />
+            <marker date="1522757964914" expanded="true" signature="3873:4094" ph="/// Respond to resize events here. ... " />
+            <marker date="1522757964914" expanded="true" signature="4142:4508" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="4512:4708" ph="/// Add your game logic here. ... " />
+            <marker date="1522757964914" expanded="true" signature="4766:5882" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="5045:5878" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="5886:6091" ph="/// Add your game rendering code here. ... " />
+            <marker date="1522757964914" expanded="true" signature="6173:6314" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="6318:6383" ph="/// Entry point of this example. ... " />
+            <marker date="1522757964914" expanded="true" signature="6425:6673" ph="{...}" />
+            <marker date="1522757964914" expanded="true" signature="6482:6669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/Conversions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522843946472" expanded="true" signature="67:857" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="105:855" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="202:297" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="390:500" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="574:664" ph="{...}" />
+            <marker date="1522843946472" expanded="true" signature="739:849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Extensions/ContentLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen/Control/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="355" column="69" lean-forward="false" selection-start-line="355" selection-start-column="69" selection-end-line="355" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen/Control/Canvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="134" column="12" lean-forward="false" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
+          <folding>
+            <marker date="1522757965249" expanded="false" signature="6:125" ph="..." />
+            <marker date="1522757965249" expanded="true" signature="149:9237" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="156:265" ph="/// Canvas control. It should be the root parent for all other controls. ... " />
+            <marker date="1522757965249" expanded="true" signature="296:9235" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="761:830" ph="/// Scale for rendering. ... " />
+            <marker date="1522757965249" expanded="true" signature="857:1229" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="919:1219" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="1239:1305" ph="/// Background color. ... " />
+            <marker date="1522757965249" expanded="true" signature="1425:1687" ph="/// In most situations you will be rendering the canvas every frame.  ... " />
+            <marker date="1522757965249" expanded="true" signature="1794:1956" ph="/// Initializes a new instance of the &lt;see cref=&quot;Canvas&quot;/&gt; class. ... " />
+            <marker date="1522757965249" expanded="true" signature="1994:2250" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="2290:2375" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="2385:2485" ph="/// Re-renders the control, invalidates cached texture. ... " />
+            <marker date="1522757965249" expanded="true" signature="2523:2602" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="2620:2710" ph="/* Children call parent.GetCanvas() until they get to ... */" />
+            <marker date="1522757965249" expanded="true" signature="2753:2798" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="2808:2938" ph="/// Additional initialization (which is sometimes not appropriate in the constructor) ... " />
+            <marker date="1522757965249" expanded="true" signature="2974:2995" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="3005:3102" ph="/// Renders the canvas. Call in your rendering loop. ... " />
+            <marker date="1522757965249" expanded="true" signature="3137:3881" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="3550:3685" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="3891:4033" ph="/// Renders the control using specified skin. ... " />
+            <marker date="1522757965249" expanded="true" signature="4088:4223" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="4233:4383" ph="/// Handler invoked when control's bounds change. ... " />
+            <marker date="1522757965249" expanded="true" signature="4452:4555" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="4565:4675" ph="/// Processes input and layout. Also purges delayed delete queue. ... " />
+            <marker date="1522757965249" expanded="true" signature="4706:5204" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="5214:5440" ph="/// Adds given control to the delete queue and detaches it from canvas. Don't call from Dispose, it modifies chil ... " />
+            <marker date="1522757965249" expanded="true" signature="5491:5792" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="5552:5670" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="5838:6176" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="5861:6007" ph="/* if (m_DisposeQueue.Count &gt; 0) ... */" />
+            <marker date="1522757965249" expanded="true" signature="6067:6130" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="6186:6343" ph="/// Handles mouse movement events. Called from Input subsystems. ... " />
+            <marker date="1522757965249" expanded="true" signature="6410:7076" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="6490:6565" ph="/* Todo: Handle scaling here.. ... */" />
+            <marker date="1522757965249" expanded="true" signature="7086:7241" ph="/// Handles mouse button events. Called from Input subsystems. ... " />
+            <marker date="1522757965249" expanded="true" signature="7302:7431" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="7441:7592" ph="/// Handles keyboard events. Called from Input subsystems. ... " />
+            <marker date="1522757965249" expanded="true" signature="7642:7862" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="7872:8023" ph="/// Handles keyboard events. Called from Input subsystems. ... " />
+            <marker date="1522757965249" expanded="true" signature="8069:8670" ph="{...}" />
+            <marker date="1522757965249" expanded="true" signature="8680:8838" ph="/// Handles the mouse wheel events. Called from Input subsystems. ... " />
+            <marker date="1522757965249" expanded="true" signature="8884:9229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gwen.Renderer.Monogame/Renderer/Monogame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <marker date="1522843381519" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522843381519" expanded="true" signature="314:2520" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="321:411" ph="/// Monogame renderer for GWEN ... " />
+            <marker date="1522843381519" expanded="true" signature="444:2518" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="800:990" ph="/// Both a SpriteBatch and ContentManager are required. ... " />
+            <marker date="1522843381519" expanded="true" signature="1063:1240" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1250:1407" ph="/// Current color to draw. ... " />
+            <marker date="1522843381519" expanded="true" signature="1462:1667" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1526:1657" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1715:1842" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="1930:2027" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2121:2194" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2275:2367" ph="{...}" />
+            <marker date="1522843381519" expanded="true" signature="2447:2512" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gwen.Sample.Monogame/Game.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="168">
+          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <marker date="1522763924784" expanded="false" signature="6:107" ph="..." />
-            <marker date="1522763924784" expanded="true" signature="140:1238" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="195:1236" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="297:428" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="474:560" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="607:686" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="735:755" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="814:1064" ph="{...}" />
-            <marker date="1522763924784" expanded="true" signature="1121:1230" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="6:204" ph="..." />
+            <marker date="1522844810623" expanded="true" signature="236:2178" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="291:2176" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="547:678" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="724:810" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="857:1369" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1421:1531" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1590:1840" ph="{...}" />
+            <marker date="1522844810623" expanded="true" signature="1897:2170" ph="{...}" />
           </folding>
         </state>
       </provider>

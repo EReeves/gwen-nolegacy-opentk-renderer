@@ -170,7 +170,6 @@
       <e p="Gwen.Renderer.Monogame" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Extensions" t="Include">
-          <e p="ContentLoader.cs" t="Include" />
           <e p="Conversions.cs" t="Include" />
         </e>
         <e p="Gwen.Renderer.Monogame.csproj" t="IncludeRecursive" />
